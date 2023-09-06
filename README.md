@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello there 👋 Welcome to my GitHub account, I hope you're enjoying my account.
+I am Ali Ikmeil, and I am a software Full-Stack Developer ⚡
+Feel free to check my Skills and experiences and also to contact me whenever you want 💬
+
 
 <!--
 **AliIkmeil/AliIkmeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
