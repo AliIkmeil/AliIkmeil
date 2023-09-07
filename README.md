@@ -69,3 +69,8 @@ width="5%" />
 <a href="https://www.postman.com/downloads/" target="_blank">
 <img src="./images/4691397_postman_icon.png" width="5%">
 </a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AliIkmeil&theme=gruvbox&border_radius=50"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliIkmeil&layout=compact&theme=vision-friendly-dark"/>
+
+
