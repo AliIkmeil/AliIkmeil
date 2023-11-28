@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20I%20am%20Ali%20Ikmeil&fontSize=90&theme=cobalt" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20I%20am%20Ali&fontSize=90&theme=cobalt" />
 
 <h1>Why don't we connect and chat?</h1>
 <a href="https://www.linkedin.com/in/aliikmeil/" target="_blank">
