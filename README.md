@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20dear&fontSize=90&theme=cobalt" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20I am Ali Ikmeil&fontSize=90&theme=cobalt" />
 
-<h1>Why don't we connect and have chat?</h1>
+<h1>Why don't we connect and chat?</h1>
 <a href="https://www.linkedin.com/in/aliikmeil/" target="_blank">
 <img src="./images/317725_linkedin_social_icon%20(2).png" width="5%"/>
 </a>
